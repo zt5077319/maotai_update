@@ -1,0 +1,253 @@
+2021-03-08 21:50:32,235 - 49335-MainThread - /Users/apple/Downloads/jd-spider/jd_seckill-master/jd_seckill/jd_spider_requests.py[line:405] - INFO: reserve 需登陆后调用，开始扫码登陆
+2021-03-08 21:50:32,549 - 49335-MainThread - /Users/apple/Downloads/jd-spider/jd_seckill-master/jd_seckill/jd_spider_requests.py[line:186] - INFO: 二维码获取成功，请打开京东APP扫描
+2021-03-08 21:50:33,026 - 49335-MainThread - /Users/apple/Downloads/jd-spider/jd_seckill-master/jd_seckill/jd_spider_requests.py[line:217] - INFO: Code: 201, Message: 二维码未扫描，请扫描二维码
+2021-03-08 21:50:35,085 - 49335-MainThread - /Users/apple/Downloads/jd-spider/jd_seckill-master/jd_seckill/jd_spider_requests.py[line:217] - INFO: Code: 201, Message: 二维码未扫描，请扫描二维码
+2021-03-08 21:50:37,131 - 49335-MainThread - /Users/apple/Downloads/jd-spider/jd_seckill-master/jd_seckill/jd_spider_requests.py[line:217] - INFO: Code: 201, Message: 二维码未扫描，请扫描二维码
+2021-03-08 21:50:39,177 - 49335-MainThread - /Users/apple/Downloads/jd-spider/jd_seckill-master/jd_seckill/jd_spider_requests.py[line:217] - INFO: Code: 201, Message: 二维码未扫描，请扫描二维码
+2021-03-08 21:50:41,223 - 49335-MainThread - /Users/apple/Downloads/jd-spider/jd_seckill-master/jd_seckill/jd_spider_requests.py[line:217] - INFO: Code: 201, Message: 二维码未扫描，请扫描二维码
+2021-03-08 21:50:43,265 - 49335-MainThread - /Users/apple/Downloads/jd-spider/jd_seckill-master/jd_seckill/jd_spider_requests.py[line:217] - INFO: Code: 201, Message: 二维码未扫描，请扫描二维码
+2021-03-08 21:50:45,309 - 49335-MainThread - /Users/apple/Downloads/jd-spider/jd_seckill-master/jd_seckill/jd_spider_requests.py[line:217] - INFO: Code: 201, Message: 二维码未扫描，请扫描二维码
+2021-03-08 21:50:47,354 - 49335-MainThread - /Users/apple/Downloads/jd-spider/jd_seckill-master/jd_seckill/jd_spider_requests.py[line:217] - INFO: Code: 201, Message: 二维码未扫描，请扫描二维码
+2021-03-08 21:50:49,400 - 49335-MainThread - /Users/apple/Downloads/jd-spider/jd_seckill-master/jd_seckill/jd_spider_requests.py[line:217] - INFO: Code: 201, Message: 二维码未扫描，请扫描二维码
+2021-03-08 21:50:51,448 - 49335-MainThread - /Users/apple/Downloads/jd-spider/jd_seckill-master/jd_seckill/jd_spider_requests.py[line:217] - INFO: Code: 201, Message: 二维码未扫描，请扫描二维码
+2021-03-08 21:50:53,494 - 49335-MainThread - /Users/apple/Downloads/jd-spider/jd_seckill-master/jd_seckill/jd_spider_requests.py[line:217] - INFO: Code: 201, Message: 二维码未扫描，请扫描二维码
+2021-03-08 21:50:55,541 - 49335-MainThread - /Users/apple/Downloads/jd-spider/jd_seckill-master/jd_seckill/jd_spider_requests.py[line:217] - INFO: Code: 201, Message: 二维码未扫描，请扫描二维码
+2021-03-08 21:50:57,595 - 49335-MainThread - /Users/apple/Downloads/jd-spider/jd_seckill-master/jd_seckill/jd_spider_requests.py[line:220] - INFO: 已完成手机客户端确认
+2021-03-08 21:50:58,018 - 49335-MainThread - /Users/apple/Downloads/jd-spider/jd_seckill-master/jd_seckill/jd_spider_requests.py[line:274] - INFO: 二维码登录成功
+2021-03-08 22:01:02,943 - 49335-MainThread - /Users/apple/Downloads/jd-spider/jd_seckill-master/jd_seckill/jd_spider_requests.py[line:312] - INFO: page_title:【京东(JD.COM)-正品低价、品质保障、配送及时、轻松购物！】, page_url【https://www.jd.com/】
+2021-03-08 22:01:06,057 - 49335-MainThread - /Users/apple/Downloads/jd-spider/jd_seckill-master/jd_seckill/jd_spider_requests.py[line:327] - INFO: page_title：【家用电器】, page_url：【https://jiadian.jd.com/】
+2021-03-08 22:02:22,533 - 49335-MainThread - /Users/apple/Downloads/jd-spider/jd_seckill-master/jd_seckill/jd_spider_requests.py[line:331] - INFO: page_title：【【海信KFR-33GW/EF20A1(1P57)】海信 (Hisense) 1.5匹 男神小智 新一级变频 自清洁 手机智控 取暖暖风 挂机空调 KFR-33GW/EF20A1(1P57)【行情 报价 价格 评测】-京东】, page_url：【https://item.jd.com/5129535.html】
+2021-03-08 22:02:24,432 - 49335-MainThread - /Users/apple/Downloads/jd-spider/jd_seckill-master/jd_seckill/jd_spider_requests.py[line:335] - INFO: page_title：【商品已成功加入购物车】, page_url：【https://cart.jd.com/addToCart.html?rcd=1&pid=5129535&pc=1&eb=1&rid=1615212142959&em=】
+2021-03-08 22:02:26,211 - 49335-MainThread - /Users/apple/Downloads/jd-spider/jd_seckill-master/jd_seckill/jd_spider_requests.py[line:339] - INFO: page_title：【京东商城 - 购物车】, page_url：【https://cart.jd.com/cart_index/】
+2021-03-08 22:02:26,977 - 49335-MainThread - /Users/apple/Downloads/jd-spider/jd_seckill-master/jd_seckill/jd_spider_requests.py[line:343] - INFO: page_title：【订单结算页 -京东商城】, page_url：【https://trade.jd.com/shopping/order/getOrderInfo.action】
+2021-03-08 22:02:28,048 - 49335-MainThread - /Users/apple/Downloads/jd-spider/jd_seckill-master/jd_seckill/jd_spider_requests.py[line:348] - INFO: jd_tdudfp：【{'eid': '4JH5NDAPVAXQWQXRPYM3QQR6CT73DT4ORNTDFCOEWSHOYMSTUYCRKQGVR2I4LYGVW6LGU7B7AQNABQW4XE3HQUONSQ', 'fp': 'a9a1d128d7eadf91944c9441d4a25870', 'date': 1615212147000, 'token': 'HQ7E7BSUZ4Z2EJUAM4TZ2C4YMULV53OUCCB2CHQXHA5EEADEQZH5BBCSFHWHFTB6U6RDZUO2EXTGA', 'jstub': 'LQQPWJYGNMAUOTGFRWRP7FWCOLIZIO3PAY57KDZ4BFKXIBMTVSL33CPJRPQ7OB5XB4ZP7WPQWOIO2XRVZGNBV2XYTDPQXOMI2V7OQNQ'}】
+2021-03-08 22:02:28,374 - 49335-MainThread - /Users/apple/Downloads/jd-spider/jd_seckill-master/jd_seckill/jd_spider_requests.py[line:481] - INFO: 商品名称:【茅台白酒】飞天 53%vol  500ml 贵州茅台酒（带杯）【行情 报价 价格 评测】-京东
+2021-03-08 22:02:28,605 - 49335-MainThread - /Users/apple/Downloads/jd-spider/jd_seckill-master/jd_seckill/jd_spider_requests.py[line:499] - INFO: 预约成功，已获得抢购资格 / 您已成功预约过了，无需重复预约
+2021-03-08 22:05:57,489 - 49795-MainThread - /Users/apple/Downloads/jd-spider/jd_seckill-master/jd_seckill/jd_spider_requests.py[line:312] - INFO: page_title:【京东(JD.COM)-正品低价、品质保障、配送及时、轻松购物！】, page_url【https://www.jd.com/】
+2021-03-08 22:06:01,967 - 49795-MainThread - /Users/apple/Downloads/jd-spider/jd_seckill-master/jd_seckill/jd_spider_requests.py[line:327] - INFO: page_title：【家用电器】, page_url：【https://jiadian.jd.com/】
+2021-03-08 22:07:08,619 - 49830-MainThread - /Users/apple/Downloads/jd-spider/jd_seckill-master/jd_seckill/jd_spider_requests.py[line:312] - INFO: page_title:【京东(JD.COM)-正品低价、品质保障、配送及时、轻松购物！】, page_url【https://www.jd.com/】
+2021-03-08 22:07:10,566 - 49830-MainThread - /Users/apple/Downloads/jd-spider/jd_seckill-master/jd_seckill/jd_spider_requests.py[line:327] - INFO: page_title：【家用电器】, page_url：【https://jiadian.jd.com/】
+2021-03-08 22:52:32,682 - 51044-MainThread - /Users/apple/Downloads/jd-spider/jd_seckill-master/jd_seckill/jd_spider_requests.py[line:312] - INFO: page_title:【京东(JD.COM)-正品低价、品质保障、配送及时、轻松购物！】, page_url【https://www.jd.com/】
+2021-03-08 22:52:36,482 - 51044-MainThread - /Users/apple/Downloads/jd-spider/jd_seckill-master/jd_seckill/jd_spider_requests.py[line:327] - INFO: page_title：【家用电器】, page_url：【https://jiadian.jd.com/】
+2021-03-08 23:01:55,285 - 51280-MainThread - /Users/apple/Downloads/jd-spider/jd_seckill-master/jd_seckill/jd_spider_requests.py[line:312] - INFO: page_title:【京东(JD.COM)-正品低价、品质保障、配送及时、轻松购物！】, page_url【https://www.jd.com/】
+2021-03-08 23:01:58,660 - 51280-MainThread - /Users/apple/Downloads/jd-spider/jd_seckill-master/jd_seckill/jd_spider_requests.py[line:327] - INFO: page_title：【家用电器】, page_url：【https://jiadian.jd.com/】
+2021-03-08 23:03:15,670 - 51280-MainThread - /Users/apple/Downloads/jd-spider/jd_seckill-master/jd_seckill/jd_spider_requests.py[line:331] - INFO: page_title：【【西门子SJ235W01JC】西门子(SIEMENS) 13套大容量 除菌独立式洗碗机家用 5D喷淋 双重烘干 SJ235W01JC (白色)【行情 报价 价格 评测】-京东】, page_url：【https://item.jd.com/100008543816.html】
+2021-03-08 23:03:18,875 - 51280-MainThread - /Users/apple/Downloads/jd-spider/jd_seckill-master/jd_seckill/jd_spider_requests.py[line:335] - INFO: page_title：【商品已成功加入购物车】, page_url：【https://cart.jd.com/addToCart.html?rcd=1&pid=100008543816&pc=1&eb=1&rid=1615215795902&em=】
+2021-03-08 23:03:23,439 - 51280-MainThread - /Users/apple/Downloads/jd-spider/jd_seckill-master/jd_seckill/jd_spider_requests.py[line:339] - INFO: page_title：【京东商城 - 购物车】, page_url：【https://cart.jd.com/cart_index/】
+2021-03-08 23:03:24,731 - 51280-MainThread - /Users/apple/Downloads/jd-spider/jd_seckill-master/jd_seckill/jd_spider_requests.py[line:343] - INFO: page_title：【订单结算页 -京东商城】, page_url：【https://trade.jd.com/shopping/order/getOrderInfo.action】
+2021-03-08 23:03:25,885 - 51280-MainThread - /Users/apple/Downloads/jd-spider/jd_seckill-master/jd_seckill/jd_spider_requests.py[line:348] - INFO: jd_tdudfp：【{'eid': '4JH5NDAPVAXQWQXRPYM3QQR6CT73DT4ORNTDFCOEWSHOYMSTUYCRKQGVR2I4LYGVW6LGU7B7AQNABQW4XE3HQUONSQ', 'fp': 'a9a1d128d7eadf91944c9441d4a25870', 'date': 1615215805000, 'token': 'E57D62OH6RM6JI7W46EY6GYAFI4F43WCSQ7THXRKQNINLJ6VU4AZXL22IQ24GQ4XPERBCEA64CMEW', 'jstub': 'F6FM6Q2HMI3O6SSLGS3EYDD7U6RBEQNYUU5FZWMFAXZGUOMS6BZQGGDJ2IKSN6DC4HTJRKTHPSR2L3W5GEXMTC5EBHJMIOXIJIPTQ3I'}】
+2021-03-08 23:03:26,273 - 51280-MainThread - /Users/apple/Downloads/jd-spider/jd_seckill-master/jd_seckill/jd_spider_requests.py[line:481] - INFO: 商品名称:【茅台白酒】飞天 53%vol  500ml 贵州茅台酒（带杯）【行情 报价 价格 评测】-京东
+2021-03-08 23:03:26,491 - 51280-MainThread - /Users/apple/Downloads/jd-spider/jd_seckill-master/jd_seckill/jd_spider_requests.py[line:499] - INFO: 预约成功，已获得抢购资格 / 您已成功预约过了，无需重复预约
+2021-03-08 23:15:42,871 - 51663-MainThread - /Users/apple/Downloads/jd-spider/jd_seckill-master/jd_seckill/jd_spider_requests.py[line:312] - INFO: page_title:【京东(JD.COM)-正品低价、品质保障、配送及时、轻松购物！】, page_url【https://www.jd.com/】
+2021-03-08 23:15:46,073 - 51663-MainThread - /Users/apple/Downloads/jd-spider/jd_seckill-master/jd_seckill/jd_spider_requests.py[line:327] - INFO: page_title：【家用电器】, page_url：【https://jiadian.jd.com/】
+2021-03-08 23:17:02,737 - 51663-MainThread - /Users/apple/Downloads/jd-spider/jd_seckill-master/jd_seckill/jd_spider_requests.py[line:331] - INFO: page_title：【【柏翠PE3040】柏翠(petrus)电烤箱 38L家用 搪瓷内胆 上下独立控温 热风多功能PE3040GR【行情 报价 价格 评测】-京东】, page_url：【https://item.jd.com/100013494348.html】
+2021-03-08 23:17:04,571 - 51663-MainThread - /Users/apple/Downloads/jd-spider/jd_seckill-master/jd_seckill/jd_spider_requests.py[line:335] - INFO: page_title：【商品已成功加入购物车】, page_url：【https://cart.jd.com/addToCart.html?rcd=1&pid=100013494348&pc=1&eb=1&rid=1615216623051&em=】
+2021-03-08 23:17:06,372 - 51663-MainThread - /Users/apple/Downloads/jd-spider/jd_seckill-master/jd_seckill/jd_spider_requests.py[line:339] - INFO: page_title：【京东商城 - 购物车】, page_url：【https://cart.jd.com/cart_index/】
+2021-03-08 23:17:07,111 - 51663-MainThread - /Users/apple/Downloads/jd-spider/jd_seckill-master/jd_seckill/jd_spider_requests.py[line:343] - INFO: page_title：【订单结算页 -京东商城】, page_url：【https://trade.jd.com/shopping/order/getOrderInfo.action】
+2021-03-08 23:17:08,218 - 51663-MainThread - /Users/apple/Downloads/jd-spider/jd_seckill-master/jd_seckill/jd_spider_requests.py[line:348] - INFO: jd_tdudfp：【{'eid': '4JH5NDAPVAXQWQXRPYM3QQR6CT73DT4ORNTDFCOEWSHOYMSTUYCRKQGVR2I4LYGVW6LGU7B7AQNABQW4XE3HQUONSQ', 'fp': 'a9a1d128d7eadf91944c9441d4a25870', 'date': 1615216627000, 'token': 'OBVQ4TDSUKEALBI56IOWSS553PHVKHRPRLEXDEG7G7LAUQOVXEESZGXWY6TTWOMPF76WHGKMOLOW4', 'jstub': 'ZJULCK32JLVU6WZ373LQEU5N4KMZMFJHX3BJS4C7LJUW4VLT2YSUHD7RNN5A4XKXRWM5KN7YPB4NJA3Q64OE2Q6JG2L5SOBIMFRLGSA'}】
+2021-03-08 23:17:08,610 - 51663-MainThread - /Users/apple/Downloads/jd-spider/jd_seckill-master/jd_seckill/jd_spider_requests.py[line:481] - INFO: 商品名称:【茅台白酒】飞天 53%vol  500ml 贵州茅台酒（带杯）【行情 报价 价格 评测】-京东
+2021-03-08 23:17:08,909 - 51663-MainThread - /Users/apple/Downloads/jd-spider/jd_seckill-master/jd_seckill/jd_spider_requests.py[line:499] - INFO: 预约成功，已获得抢购资格 / 您已成功预约过了，无需重复预约
+2021-03-09 00:08:33,408 - 53188-MainThread - /Users/apple/Downloads/jd-spider/jd_seckill-master/jd_seckill/jd_spider_requests.py[line:312] - INFO: page_title:【京东(JD.COM)-正品低价、品质保障、配送及时、轻松购物！】, page_url【https://www.jd.com/】
+2021-03-09 00:08:35,660 - 53188-MainThread - /Users/apple/Downloads/jd-spider/jd_seckill-master/jd_seckill/jd_spider_requests.py[line:327] - INFO: page_title：【家用电器】, page_url：【https://jiadian.jd.com/】
+2021-03-09 00:09:52,333 - 53188-MainThread - /Users/apple/Downloads/jd-spider/jd_seckill-master/jd_seckill/jd_spider_requests.py[line:331] - INFO: page_title：【【海尔BCD-216STPT】海尔 （Haier）216升直冷三门三温区家用节能小冰箱小巧不占地中门软冷冻高品质蒸发器制冷快BCD-216STPT【行情 报价 价格 评测】-京东】, page_url：【https://item.jd.com/100012791656.html】
+2021-03-09 00:09:53,713 - 53188-MainThread - /Users/apple/Downloads/jd-spider/jd_seckill-master/jd_seckill/jd_spider_requests.py[line:335] - INFO: page_title：【商品已成功加入购物车】, page_url：【https://cart.jd.com/addToCart.html?rcd=1&pid=100012791656&pc=1&eb=1&rid=1615219792471&em=】
+2021-03-09 00:09:55,460 - 53188-MainThread - /Users/apple/Downloads/jd-spider/jd_seckill-master/jd_seckill/jd_spider_requests.py[line:339] - INFO: page_title：【京东商城 - 购物车】, page_url：【https://cart.jd.com/cart_index/】
+2021-03-09 00:09:56,262 - 53188-MainThread - /Users/apple/Downloads/jd-spider/jd_seckill-master/jd_seckill/jd_spider_requests.py[line:343] - INFO: page_title：【订单结算页 -京东商城】, page_url：【https://trade.jd.com/shopping/order/getOrderInfo.action】
+2021-03-09 00:09:57,481 - 53188-MainThread - /Users/apple/Downloads/jd-spider/jd_seckill-master/jd_seckill/jd_spider_requests.py[line:348] - INFO: jd_tdudfp：【{'eid': '4JH5NDAPVAXQWQXRPYM3QQR6CT73DT4ORNTDFCOEWSHOYMSTUYCRKQGVR2I4LYGVW6LGU7B7AQNABQW4XE3HQUONSQ', 'fp': 'a9a1d128d7eadf91944c9441d4a25870', 'date': 1615219796000, 'token': '4L7U2THRR365D6C7WZAZRPVCQWJ6IFQCJ6QHS2Y4O2NYJFRNNDMH4RF4OWS5FVDOEQMIOWURTJ6PA', 'jstub': 'ITPU7DPQ3V2MREMEQ3OFVF5DTMZWBQ2EG37P6G6AY6J3UULBRHEUJR7RLEAT7GJHSAK2WG3WE3THVCTQ7RIXYTFKHESPHSGZVRIE43Q'}】
+2021-03-09 00:09:58,465 - 53235-MainThread - /Users/apple/Downloads/jd-spider/jd_seckill-master/jd_seckill/jd_spider_requests.py[line:577] - INFO: 用户:zdzb1234
+2021-03-09 00:09:58,465 - 53234-MainThread - /Users/apple/Downloads/jd-spider/jd_seckill-master/jd_seckill/jd_spider_requests.py[line:577] - INFO: 用户:zdzb1234
+2021-03-09 00:09:58,465 - 53236-MainThread - /Users/apple/Downloads/jd-spider/jd_seckill-master/jd_seckill/jd_spider_requests.py[line:577] - INFO: 用户:zdzb1234
+2021-03-09 00:09:58,752 - 53236-MainThread - /Users/apple/Downloads/jd-spider/jd_seckill-master/jd_seckill/jd_spider_requests.py[line:578] - INFO: 商品名称:【茅台白酒】飞天 53%vol  500ml 贵州茅台酒（带杯）【行情 报价 价格 评测】-京东
+2021-03-09 00:09:58,752 - 53236-MainThread - /Users/apple/Downloads/jd-spider/jd_seckill-master/jd_seckill/timer.py[line:48] - INFO: 正在等待到达设定时间:2021-03-09 11:56:00，检测本地时间与京东服务器时间误差为【-215】毫秒
+2021-03-09 00:09:58,776 - 53234-MainThread - /Users/apple/Downloads/jd-spider/jd_seckill-master/jd_seckill/jd_spider_requests.py[line:578] - INFO: 商品名称:【茅台白酒】飞天 53%vol  500ml 贵州茅台酒（带杯）【行情 报价 价格 评测】-京东
+2021-03-09 00:09:58,776 - 53234-MainThread - /Users/apple/Downloads/jd-spider/jd_seckill-master/jd_seckill/timer.py[line:48] - INFO: 正在等待到达设定时间:2021-03-09 11:56:00，检测本地时间与京东服务器时间误差为【-215】毫秒
+2021-03-09 00:09:58,795 - 53235-MainThread - /Users/apple/Downloads/jd-spider/jd_seckill-master/jd_seckill/jd_spider_requests.py[line:578] - INFO: 商品名称:【茅台白酒】飞天 53%vol  500ml 贵州茅台酒（带杯）【行情 报价 价格 评测】-京东
+2021-03-09 00:09:58,796 - 53235-MainThread - /Users/apple/Downloads/jd-spider/jd_seckill-master/jd_seckill/timer.py[line:48] - INFO: 正在等待到达设定时间:2021-03-09 11:56:00，检测本地时间与京东服务器时间误差为【-215】毫秒
+2021-03-09 00:09:58,990 - 53232-MainThread - /Users/apple/Downloads/jd-spider/jd_seckill-master/jd_seckill/jd_spider_requests.py[line:577] - INFO: 用户:zdzb1234
+2021-03-09 00:09:59,146 - 53233-MainThread - /Users/apple/Downloads/jd-spider/jd_seckill-master/jd_seckill/jd_spider_requests.py[line:577] - INFO: 用户:zdzb1234
+2021-03-09 00:09:59,244 - 53232-MainThread - /Users/apple/Downloads/jd-spider/jd_seckill-master/jd_seckill/jd_spider_requests.py[line:578] - INFO: 商品名称:【茅台白酒】飞天 53%vol  500ml 贵州茅台酒（带杯）【行情 报价 价格 评测】-京东
+2021-03-09 00:09:59,254 - 53232-MainThread - /Users/apple/Downloads/jd-spider/jd_seckill-master/jd_seckill/timer.py[line:48] - INFO: 正在等待到达设定时间:2021-03-09 11:56:00，检测本地时间与京东服务器时间误差为【-215】毫秒
+2021-03-09 00:09:59,458 - 53233-MainThread - /Users/apple/Downloads/jd-spider/jd_seckill-master/jd_seckill/jd_spider_requests.py[line:578] - INFO: 商品名称:【茅台白酒】飞天 53%vol  500ml 贵州茅台酒（带杯）【行情 报价 价格 评测】-京东
+2021-03-09 00:09:59,458 - 53233-MainThread - /Users/apple/Downloads/jd-spider/jd_seckill-master/jd_seckill/timer.py[line:48] - INFO: 正在等待到达设定时间:2021-03-09 11:56:00，检测本地时间与京东服务器时间误差为【-215】毫秒
+2021-03-09 00:17:44,387 - 53188-MainThread - /Users/apple/opt/anaconda3/lib/python3.8/asyncio/base_events.py[line:1707] - ERROR: Task exception was never retrieved
+future: <Task finished name='Task-971' coro=<Connection._async_send() done, defined at /Users/apple/Downloads/jd-spider/jd_seckill-master/lib/python3.8/site-packages/pyppeteer/connection.py:69> exception=InvalidStateError('invalid state')>
+Traceback (most recent call last):
+  File "/Users/apple/Downloads/jd-spider/jd_seckill-master/lib/python3.8/site-packages/websockets/protocol.py", line 827, in transfer_data
+    message = await self.read_message()
+  File "/Users/apple/Downloads/jd-spider/jd_seckill-master/lib/python3.8/site-packages/websockets/protocol.py", line 895, in read_message
+    frame = await self.read_data_frame(max_size=self.max_size)
+  File "/Users/apple/Downloads/jd-spider/jd_seckill-master/lib/python3.8/site-packages/websockets/protocol.py", line 971, in read_data_frame
+    frame = await self.read_frame(max_size)
+  File "/Users/apple/Downloads/jd-spider/jd_seckill-master/lib/python3.8/site-packages/websockets/protocol.py", line 1047, in read_frame
+    frame = await Frame.read(
+  File "/Users/apple/Downloads/jd-spider/jd_seckill-master/lib/python3.8/site-packages/websockets/framing.py", line 105, in read
+    data = await reader(2)
+  File "/Users/apple/opt/anaconda3/lib/python3.8/asyncio/streams.py", line 721, in readexactly
+    raise exceptions.IncompleteReadError(incomplete, n)
+asyncio.exceptions.IncompleteReadError: 0 bytes read on a total of 2 expected bytes
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/Users/apple/Downloads/jd-spider/jd_seckill-master/lib/python3.8/site-packages/pyppeteer/connection.py", line 73, in _async_send
+    await self.connection.send(msg)
+  File "/Users/apple/Downloads/jd-spider/jd_seckill-master/lib/python3.8/site-packages/websockets/protocol.py", line 567, in send
+    await self.write_frame(True, opcode, data)
+  File "/Users/apple/Downloads/jd-spider/jd_seckill-master/lib/python3.8/site-packages/websockets/protocol.py", line 1083, in write_frame
+    await self.ensure_open()
+  File "/Users/apple/Downloads/jd-spider/jd_seckill-master/lib/python3.8/site-packages/websockets/protocol.py", line 803, in ensure_open
+    raise self.connection_closed_exc()
+websockets.exceptions.ConnectionClosedError: code = 1006 (connection closed abnormally [internal]), no reason
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Users/apple/Downloads/jd-spider/jd_seckill-master/lib/python3.8/site-packages/pyppeteer/connection.py", line 79, in _async_send
+    await self.dispose()
+  File "/Users/apple/Downloads/jd-spider/jd_seckill-master/lib/python3.8/site-packages/pyppeteer/connection.py", line 170, in dispose
+    await self._on_close()
+  File "/Users/apple/Downloads/jd-spider/jd_seckill-master/lib/python3.8/site-packages/pyppeteer/connection.py", line 151, in _on_close
+    cb.set_exception(_rewriteError(
+asyncio.exceptions.InvalidStateError: invalid state
+2021-03-09 00:17:56,490 - 53484-MainThread - /Users/apple/Downloads/jd-spider/jd_seckill-master/jd_seckill/jd_spider_requests.py[line:312] - INFO: page_title:【京东(JD.COM)-正品低价、品质保障、配送及时、轻松购物！】, page_url【https://www.jd.com/】
+2021-03-09 00:17:59,256 - 53484-MainThread - /Users/apple/Downloads/jd-spider/jd_seckill-master/jd_seckill/jd_spider_requests.py[line:327] - INFO: page_title：【家用电器】, page_url：【https://jiadian.jd.com/】
+2021-03-09 00:19:16,424 - 53484-MainThread - /Users/apple/Downloads/jd-spider/jd_seckill-master/jd_seckill/jd_spider_requests.py[line:331] - INFO: page_title：【【创维BCD-455WY】创维(SKYWORTH)455升 冰箱双开门四开门 二级能效省电 升级风机 净味保鲜风冷无霜 BCD-455WY【行情 报价 价格 评测】-京东】, page_url：【https://item.jd.com/7427648.html】
+2021-03-09 00:19:18,556 - 53484-MainThread - /Users/apple/Downloads/jd-spider/jd_seckill-master/jd_seckill/jd_spider_requests.py[line:335] - INFO: page_title：【商品已成功加入购物车】, page_url：【https://cart.jd.com/addToCart.html?rcd=1&pid=7427648&pc=1&eb=1&rid=1615220356835&em=】
+2021-03-09 00:19:20,821 - 53484-MainThread - /Users/apple/Downloads/jd-spider/jd_seckill-master/jd_seckill/jd_spider_requests.py[line:339] - INFO: page_title：【京东商城 - 购物车】, page_url：【https://cart.jd.com/cart_index/】
+2021-03-09 00:19:21,950 - 53484-MainThread - /Users/apple/Downloads/jd-spider/jd_seckill-master/jd_seckill/jd_spider_requests.py[line:343] - INFO: page_title：【订单结算页 -京东商城】, page_url：【https://trade.jd.com/shopping/order/getOrderInfo.action】
+2021-03-09 00:19:23,858 - 53484-MainThread - /Users/apple/Downloads/jd-spider/jd_seckill-master/jd_seckill/jd_spider_requests.py[line:348] - INFO: jd_tdudfp：【{'eid': '4JH5NDAPVAXQWQXRPYM3QQR6CT73DT4ORNTDFCOEWSHOYMSTUYCRKQGVR2I4LYGVW6LGU7B7AQNABQW4XE3HQUONSQ', 'fp': 'a9a1d128d7eadf91944c9441d4a25870', 'date': 1615220363000, 'token': 'MOFDLMCZX6GMBBDM4ZGCCHBHTUQUMACQUVMAIRMHRFVZA5N6DWQKPYOZGAXOM56OSRCB5372NJSHC', 'jstub': 'LYHHMJFOCXNFJUEQAWPKFBHJBOADK74X2NLRPFEEIGK553FW5AOYPOPTBHI5F7JX5NZCE2HVV64Y4VWM2WJTOOTRD5VRP7I6WCGDPWQ'}】
+2021-03-09 00:19:26,407 - 53544-MainThread - /Users/apple/Downloads/jd-spider/jd_seckill-master/jd_seckill/jd_spider_requests.py[line:577] - INFO: 用户:zdzb1234
+2021-03-09 00:19:26,408 - 53546-MainThread - /Users/apple/Downloads/jd-spider/jd_seckill-master/jd_seckill/jd_spider_requests.py[line:577] - INFO: 用户:zdzb1234
+2021-03-09 00:19:26,771 - 53546-MainThread - /Users/apple/Downloads/jd-spider/jd_seckill-master/jd_seckill/jd_spider_requests.py[line:578] - INFO: 商品名称:【茅台白酒】飞天 53%vol  500ml 贵州茅台酒（带杯）【行情 报价 价格 评测】-京东
+2021-03-09 00:19:26,771 - 53546-MainThread - /Users/apple/Downloads/jd-spider/jd_seckill-master/jd_seckill/timer.py[line:48] - INFO: 正在等待到达设定时间:2021-03-09 11:56:00，检测本地时间与京东服务器时间误差为【-493】毫秒
+2021-03-09 00:19:26,883 - 53544-MainThread - /Users/apple/Downloads/jd-spider/jd_seckill-master/jd_seckill/jd_spider_requests.py[line:578] - INFO: 商品名称:【茅台白酒】飞天 53%vol  500ml 贵州茅台酒（带杯）【行情 报价 价格 评测】-京东
+2021-03-09 00:19:26,883 - 53544-MainThread - /Users/apple/Downloads/jd-spider/jd_seckill-master/jd_seckill/timer.py[line:48] - INFO: 正在等待到达设定时间:2021-03-09 11:56:00，检测本地时间与京东服务器时间误差为【-493】毫秒
+2021-03-09 00:19:26,891 - 53543-MainThread - /Users/apple/Downloads/jd-spider/jd_seckill-master/jd_seckill/jd_spider_requests.py[line:577] - INFO: 用户:zdzb1234
+2021-03-09 00:19:26,908 - 53545-MainThread - /Users/apple/Downloads/jd-spider/jd_seckill-master/jd_seckill/jd_spider_requests.py[line:577] - INFO: 用户:zdzb1234
+2021-03-09 00:19:27,024 - 53542-MainThread - /Users/apple/Downloads/jd-spider/jd_seckill-master/jd_seckill/jd_spider_requests.py[line:577] - INFO: 用户:zdzb1234
+2021-03-09 00:19:27,229 - 53545-MainThread - /Users/apple/Downloads/jd-spider/jd_seckill-master/jd_seckill/jd_spider_requests.py[line:578] - INFO: 商品名称:【茅台白酒】飞天 53%vol  500ml 贵州茅台酒（带杯）【行情 报价 价格 评测】-京东
+2021-03-09 00:19:27,230 - 53545-MainThread - /Users/apple/Downloads/jd-spider/jd_seckill-master/jd_seckill/timer.py[line:48] - INFO: 正在等待到达设定时间:2021-03-09 11:56:00，检测本地时间与京东服务器时间误差为【-493】毫秒
+2021-03-09 00:19:27,267 - 53541-MainThread - /Users/apple/Downloads/jd-spider/jd_seckill-master/jd_seckill/jd_spider_requests.py[line:577] - INFO: 用户:zdzb1234
+2021-03-09 00:19:27,271 - 53543-MainThread - /Users/apple/Downloads/jd-spider/jd_seckill-master/jd_seckill/jd_spider_requests.py[line:578] - INFO: 商品名称:【茅台白酒】飞天 53%vol  500ml 贵州茅台酒（带杯）【行情 报价 价格 评测】-京东
+2021-03-09 00:19:27,271 - 53543-MainThread - /Users/apple/Downloads/jd-spider/jd_seckill-master/jd_seckill/timer.py[line:48] - INFO: 正在等待到达设定时间:2021-03-09 11:56:00，检测本地时间与京东服务器时间误差为【-493】毫秒
+2021-03-09 00:19:27,309 - 53548-MainThread - /Users/apple/Downloads/jd-spider/jd_seckill-master/jd_seckill/jd_spider_requests.py[line:577] - INFO: 用户:zdzb1234
+2021-03-09 00:19:27,373 - 53542-MainThread - /Users/apple/Downloads/jd-spider/jd_seckill-master/jd_seckill/jd_spider_requests.py[line:578] - INFO: 商品名称:【茅台白酒】飞天 53%vol  500ml 贵州茅台酒（带杯）【行情 报价 价格 评测】-京东
+2021-03-09 00:19:27,373 - 53542-MainThread - /Users/apple/Downloads/jd-spider/jd_seckill-master/jd_seckill/timer.py[line:48] - INFO: 正在等待到达设定时间:2021-03-09 11:56:00，检测本地时间与京东服务器时间误差为【-493】毫秒
+2021-03-09 00:19:27,380 - 53547-MainThread - /Users/apple/Downloads/jd-spider/jd_seckill-master/jd_seckill/jd_spider_requests.py[line:577] - INFO: 用户:zdzb1234
+2021-03-09 00:19:27,600 - 53541-MainThread - /Users/apple/Downloads/jd-spider/jd_seckill-master/jd_seckill/jd_spider_requests.py[line:578] - INFO: 商品名称:【茅台白酒】飞天 53%vol  500ml 贵州茅台酒（带杯）【行情 报价 价格 评测】-京东
+2021-03-09 00:19:27,600 - 53541-MainThread - /Users/apple/Downloads/jd-spider/jd_seckill-master/jd_seckill/timer.py[line:48] - INFO: 正在等待到达设定时间:2021-03-09 11:56:00，检测本地时间与京东服务器时间误差为【-493】毫秒
+2021-03-09 00:19:27,632 - 53548-MainThread - /Users/apple/Downloads/jd-spider/jd_seckill-master/jd_seckill/jd_spider_requests.py[line:578] - INFO: 商品名称:【茅台白酒】飞天 53%vol  500ml 贵州茅台酒（带杯）【行情 报价 价格 评测】-京东
+2021-03-09 00:19:27,633 - 53548-MainThread - /Users/apple/Downloads/jd-spider/jd_seckill-master/jd_seckill/timer.py[line:48] - INFO: 正在等待到达设定时间:2021-03-09 11:56:00，检测本地时间与京东服务器时间误差为【-493】毫秒
+2021-03-09 00:19:27,728 - 53547-MainThread - /Users/apple/Downloads/jd-spider/jd_seckill-master/jd_seckill/jd_spider_requests.py[line:578] - INFO: 商品名称:【茅台白酒】飞天 53%vol  500ml 贵州茅台酒（带杯）【行情 报价 价格 评测】-京东
+2021-03-09 00:19:27,728 - 53547-MainThread - /Users/apple/Downloads/jd-spider/jd_seckill-master/jd_seckill/timer.py[line:48] - INFO: 正在等待到达设定时间:2021-03-09 11:56:00，检测本地时间与京东服务器时间误差为【-493】毫秒
+2021-03-09 00:40:45,176 - 53484-MainThread - /Users/apple/opt/anaconda3/lib/python3.8/asyncio/base_events.py[line:1707] - ERROR: Task exception was never retrieved
+future: <Task finished name='Task-990' coro=<Connection._async_send() done, defined at /Users/apple/Downloads/jd-spider/jd_seckill-master/lib/python3.8/site-packages/pyppeteer/connection.py:69> exception=InvalidStateError('invalid state')>
+Traceback (most recent call last):
+  File "/Users/apple/Downloads/jd-spider/jd_seckill-master/lib/python3.8/site-packages/websockets/protocol.py", line 827, in transfer_data
+    message = await self.read_message()
+  File "/Users/apple/Downloads/jd-spider/jd_seckill-master/lib/python3.8/site-packages/websockets/protocol.py", line 895, in read_message
+    frame = await self.read_data_frame(max_size=self.max_size)
+  File "/Users/apple/Downloads/jd-spider/jd_seckill-master/lib/python3.8/site-packages/websockets/protocol.py", line 971, in read_data_frame
+    frame = await self.read_frame(max_size)
+  File "/Users/apple/Downloads/jd-spider/jd_seckill-master/lib/python3.8/site-packages/websockets/protocol.py", line 1047, in read_frame
+    frame = await Frame.read(
+  File "/Users/apple/Downloads/jd-spider/jd_seckill-master/lib/python3.8/site-packages/websockets/framing.py", line 105, in read
+    data = await reader(2)
+  File "/Users/apple/opt/anaconda3/lib/python3.8/asyncio/streams.py", line 721, in readexactly
+    raise exceptions.IncompleteReadError(incomplete, n)
+asyncio.exceptions.IncompleteReadError: 0 bytes read on a total of 2 expected bytes
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/Users/apple/Downloads/jd-spider/jd_seckill-master/lib/python3.8/site-packages/pyppeteer/connection.py", line 73, in _async_send
+    await self.connection.send(msg)
+  File "/Users/apple/Downloads/jd-spider/jd_seckill-master/lib/python3.8/site-packages/websockets/protocol.py", line 567, in send
+    await self.write_frame(True, opcode, data)
+  File "/Users/apple/Downloads/jd-spider/jd_seckill-master/lib/python3.8/site-packages/websockets/protocol.py", line 1083, in write_frame
+    await self.ensure_open()
+  File "/Users/apple/Downloads/jd-spider/jd_seckill-master/lib/python3.8/site-packages/websockets/protocol.py", line 803, in ensure_open
+    raise self.connection_closed_exc()
+websockets.exceptions.ConnectionClosedError: code = 1006 (connection closed abnormally [internal]), no reason
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Users/apple/Downloads/jd-spider/jd_seckill-master/lib/python3.8/site-packages/pyppeteer/connection.py", line 79, in _async_send
+    await self.dispose()
+  File "/Users/apple/Downloads/jd-spider/jd_seckill-master/lib/python3.8/site-packages/pyppeteer/connection.py", line 170, in dispose
+    await self._on_close()
+  File "/Users/apple/Downloads/jd-spider/jd_seckill-master/lib/python3.8/site-packages/pyppeteer/connection.py", line 151, in _on_close
+    cb.set_exception(_rewriteError(
+asyncio.exceptions.InvalidStateError: invalid state
+2021-03-09 00:40:54,599 - 54224-MainThread - /Users/apple/Downloads/jd-spider/jd_seckill-master/jd_seckill/jd_spider_requests.py[line:312] - INFO: page_title:【京东(JD.COM)-正品低价、品质保障、配送及时、轻松购物！】, page_url【https://www.jd.com/】
+2021-03-09 00:40:58,015 - 54224-MainThread - /Users/apple/Downloads/jd-spider/jd_seckill-master/jd_seckill/jd_spider_requests.py[line:327] - INFO: page_title：【家用电器】, page_url：【https://jiadian.jd.com/】
+2021-03-09 00:42:14,499 - 54224-MainThread - /Users/apple/Downloads/jd-spider/jd_seckill-master/jd_seckill/jd_spider_requests.py[line:331] - INFO: page_title：【【索尼KD-65X9100H】索尼（SONY）京品家电 KD-65X9100H 65英寸 4K超高清 游戏电视 全面屏AI智能 HDMI2.1 支持4K120Hz输入【行情 报价 价格 评测】-京东】, page_url：【https://item.jd.com/100007346953.html】
+2021-03-09 00:42:15,667 - 54224-MainThread - /Users/apple/Downloads/jd-spider/jd_seckill-master/jd_seckill/jd_spider_requests.py[line:335] - INFO: page_title：【商品已成功加入购物车】, page_url：【https://cart.jd.com/addToCart.html?rcd=1&pid=100007346953&pc=1&eb=1&rid=1615221734648&em=】
+2021-03-09 00:42:17,040 - 54224-MainThread - /Users/apple/Downloads/jd-spider/jd_seckill-master/jd_seckill/jd_spider_requests.py[line:339] - INFO: page_title：【京东商城 - 购物车】, page_url：【https://cart.jd.com/cart_index/】
+2021-03-09 00:42:17,955 - 54224-MainThread - /Users/apple/Downloads/jd-spider/jd_seckill-master/jd_seckill/jd_spider_requests.py[line:343] - INFO: page_title：【订单结算页 -京东商城】, page_url：【https://trade.jd.com/shopping/order/getOrderInfo.action】
+2021-03-09 00:42:18,979 - 54224-MainThread - /Users/apple/Downloads/jd-spider/jd_seckill-master/jd_seckill/jd_spider_requests.py[line:348] - INFO: jd_tdudfp：【{'eid': '4JH5NDAPVAXQWQXRPYM3QQR6CT73DT4ORNTDFCOEWSHOYMSTUYCRKQGVR2I4LYGVW6LGU7B7AQNABQW4XE3HQUONSQ', 'fp': 'a9a1d128d7eadf91944c9441d4a25870', 'date': 1615221738000, 'token': '5SNAB2JV52QW5LH7OIUK5HDH4WAP6JA2XMOSZCOKL4U3D7YOMUMORY3WLHR2QQ3O5XPDTO77R4UIQ', 'jstub': 'OFO6Z7Y7BKAVYCTYYHZAB3K2AAMIUYLYBPBSRYF6A6UMJUOSOUZDGW34ZV363UU33EAQLKPHO7Z4EXWHA7MZF4FH5KU4HSA7VVJCBBY'}】
+2021-03-09 00:42:19,954 - 54276-MainThread - /Users/apple/Downloads/jd-spider/jd_seckill-master/jd_seckill/jd_spider_requests.py[line:577] - INFO: 用户:zdzb1234
+2021-03-09 00:42:20,026 - 54278-MainThread - /Users/apple/Downloads/jd-spider/jd_seckill-master/jd_seckill/jd_spider_requests.py[line:577] - INFO: 用户:zdzb1234
+2021-03-09 00:42:20,081 - 54282-MainThread - /Users/apple/Downloads/jd-spider/jd_seckill-master/jd_seckill/jd_spider_requests.py[line:577] - INFO: 用户:zdzb1234
+2021-03-09 00:42:20,300 - 54278-MainThread - /Users/apple/Downloads/jd-spider/jd_seckill-master/jd_seckill/jd_spider_requests.py[line:578] - INFO: 商品名称:【茅台白酒】飞天 53%vol  500ml 贵州茅台酒（带杯）【行情 报价 价格 评测】-京东
+2021-03-09 00:42:20,300 - 54278-MainThread - /Users/apple/Downloads/jd-spider/jd_seckill-master/jd_seckill/timer.py[line:48] - INFO: 正在等待到达设定时间:2021-03-09 11:56:00，检测本地时间与京东服务器时间误差为【-111】毫秒
+2021-03-09 00:42:20,308 - 54276-MainThread - /Users/apple/Downloads/jd-spider/jd_seckill-master/jd_seckill/jd_spider_requests.py[line:578] - INFO: 商品名称:【茅台白酒】飞天 53%vol  500ml 贵州茅台酒（带杯）【行情 报价 价格 评测】-京东
+2021-03-09 00:42:20,309 - 54276-MainThread - /Users/apple/Downloads/jd-spider/jd_seckill-master/jd_seckill/timer.py[line:48] - INFO: 正在等待到达设定时间:2021-03-09 11:56:00，检测本地时间与京东服务器时间误差为【-111】毫秒
+2021-03-09 00:42:20,419 - 54282-MainThread - /Users/apple/Downloads/jd-spider/jd_seckill-master/jd_seckill/jd_spider_requests.py[line:578] - INFO: 商品名称:【茅台白酒】飞天 53%vol  500ml 贵州茅台酒（带杯）【行情 报价 价格 评测】-京东
+2021-03-09 00:42:20,419 - 54282-MainThread - /Users/apple/Downloads/jd-spider/jd_seckill-master/jd_seckill/timer.py[line:48] - INFO: 正在等待到达设定时间:2021-03-09 11:56:00，检测本地时间与京东服务器时间误差为【-111】毫秒
+2021-03-09 00:42:20,526 - 54283-MainThread - /Users/apple/Downloads/jd-spider/jd_seckill-master/jd_seckill/jd_spider_requests.py[line:577] - INFO: 用户:zdzb1234
+2021-03-09 00:42:20,571 - 54277-MainThread - /Users/apple/Downloads/jd-spider/jd_seckill-master/jd_seckill/jd_spider_requests.py[line:577] - INFO: 用户:zdzb1234
+2021-03-09 00:42:20,573 - 54281-MainThread - /Users/apple/Downloads/jd-spider/jd_seckill-master/jd_seckill/jd_spider_requests.py[line:577] - INFO: 用户:zdzb1234
+2021-03-09 00:42:20,829 - 54280-MainThread - /Users/apple/Downloads/jd-spider/jd_seckill-master/jd_seckill/jd_spider_requests.py[line:577] - INFO: 用户:zdzb1234
+2021-03-09 00:42:20,834 - 54277-MainThread - /Users/apple/Downloads/jd-spider/jd_seckill-master/jd_seckill/jd_spider_requests.py[line:578] - INFO: 商品名称:【茅台白酒】飞天 53%vol  500ml 贵州茅台酒（带杯）【行情 报价 价格 评测】-京东
+2021-03-09 00:42:20,834 - 54277-MainThread - /Users/apple/Downloads/jd-spider/jd_seckill-master/jd_seckill/timer.py[line:48] - INFO: 正在等待到达设定时间:2021-03-09 11:56:00，检测本地时间与京东服务器时间误差为【-111】毫秒
+2021-03-09 00:42:20,842 - 54283-MainThread - /Users/apple/Downloads/jd-spider/jd_seckill-master/jd_seckill/jd_spider_requests.py[line:578] - INFO: 商品名称:【茅台白酒】飞天 53%vol  500ml 贵州茅台酒（带杯）【行情 报价 价格 评测】-京东
+2021-03-09 00:42:20,842 - 54283-MainThread - /Users/apple/Downloads/jd-spider/jd_seckill-master/jd_seckill/timer.py[line:48] - INFO: 正在等待到达设定时间:2021-03-09 11:56:00，检测本地时间与京东服务器时间误差为【-111】毫秒
+2021-03-09 00:42:20,900 - 54281-MainThread - /Users/apple/Downloads/jd-spider/jd_seckill-master/jd_seckill/jd_spider_requests.py[line:578] - INFO: 商品名称:【茅台白酒】飞天 53%vol  500ml 贵州茅台酒（带杯）【行情 报价 价格 评测】-京东
+2021-03-09 00:42:20,900 - 54281-MainThread - /Users/apple/Downloads/jd-spider/jd_seckill-master/jd_seckill/timer.py[line:48] - INFO: 正在等待到达设定时间:2021-03-09 11:56:00，检测本地时间与京东服务器时间误差为【-111】毫秒
+2021-03-09 00:42:21,114 - 54280-MainThread - /Users/apple/Downloads/jd-spider/jd_seckill-master/jd_seckill/jd_spider_requests.py[line:578] - INFO: 商品名称:【茅台白酒】飞天 53%vol  500ml 贵州茅台酒（带杯）【行情 报价 价格 评测】-京东
+2021-03-09 00:42:21,114 - 54280-MainThread - /Users/apple/Downloads/jd-spider/jd_seckill-master/jd_seckill/timer.py[line:48] - INFO: 正在等待到达设定时间:2021-03-09 11:56:00，检测本地时间与京东服务器时间误差为【-111】毫秒
+2021-03-09 00:42:21,377 - 54279-MainThread - /Users/apple/Downloads/jd-spider/jd_seckill-master/jd_seckill/jd_spider_requests.py[line:577] - INFO: 用户:zdzb1234
+2021-03-09 00:42:21,631 - 54279-MainThread - /Users/apple/Downloads/jd-spider/jd_seckill-master/jd_seckill/jd_spider_requests.py[line:578] - INFO: 商品名称:【茅台白酒】飞天 53%vol  500ml 贵州茅台酒（带杯）【行情 报价 价格 评测】-京东
+2021-03-09 00:42:21,631 - 54279-MainThread - /Users/apple/Downloads/jd-spider/jd_seckill-master/jd_seckill/timer.py[line:48] - INFO: 正在等待到达设定时间:2021-03-09 11:56:00，检测本地时间与京东服务器时间误差为【-111】毫秒
+2021-03-09 00:48:25,943 - 54480-MainThread - /Users/apple/Downloads/jd-spider/jd_seckill-master/jd_seckill/jd_spider_requests.py[line:312] - INFO: page_title:【京东(JD.COM)-正品低价、品质保障、配送及时、轻松购物！】, page_url【https://www.jd.com/】
+2021-03-09 00:48:27,695 - 54480-MainThread - /Users/apple/Downloads/jd-spider/jd_seckill-master/jd_seckill/jd_spider_requests.py[line:327] - INFO: page_title：【家用电器】, page_url：【https://jiadian.jd.com/】
+2021-03-09 00:49:44,138 - 54480-MainThread - /Users/apple/Downloads/jd-spider/jd_seckill-master/jd_seckill/jd_spider_requests.py[line:331] - INFO: page_title：【【荣耀OSCA-550A】荣耀智慧屏55英寸OSCA-550A超薄金属全面屏开关机无广告远场语音4K超高清人工智能液晶电视 2G+16G【行情 报价 价格 评测】-京东】, page_url：【https://item.jd.com/100007006134.html】
+2021-03-09 00:49:45,737 - 54480-MainThread - /Users/apple/Downloads/jd-spider/jd_seckill-master/jd_seckill/jd_spider_requests.py[line:335] - INFO: page_title：【商品已成功加入购物车】, page_url：【https://cart.jd.com/addToCart.html?rcd=1&pid=100007006134&pc=1&eb=1&rid=1615222184286&em=】
+2021-03-09 00:49:47,294 - 54480-MainThread - /Users/apple/Downloads/jd-spider/jd_seckill-master/jd_seckill/jd_spider_requests.py[line:339] - INFO: page_title：【京东商城 - 购物车】, page_url：【https://cart.jd.com/cart_index/】
+2021-03-09 00:49:48,174 - 54480-MainThread - /Users/apple/Downloads/jd-spider/jd_seckill-master/jd_seckill/jd_spider_requests.py[line:343] - INFO: page_title：【订单结算页 -京东商城】, page_url：【https://trade.jd.com/shopping/order/getOrderInfo.action】
+2021-03-09 00:49:49,387 - 54480-MainThread - /Users/apple/Downloads/jd-spider/jd_seckill-master/jd_seckill/jd_spider_requests.py[line:348] - INFO: jd_tdudfp：【{'eid': '4JH5NDAPVAXQWQXRPYM3QQR6CT73DT4ORNTDFCOEWSHOYMSTUYCRKQGVR2I4LYGVW6LGU7B7AQNABQW4XE3HQUONSQ', 'fp': 'a9a1d128d7eadf91944c9441d4a25870', 'date': 1615222188000, 'token': 'WPNFWJWNAUZWZAVGM6KJ5RCO6P3IR3JZXL64XWSBCN6IXSDDNHB3BUMZP7RSQDD4OE2UOUP4X5S64', 'jstub': 'HE3HKHTABXVEWEUPWIRTX3I6RXRHLR3MDVVWTGQVJ2RFWIYSTD4KNYVPPVVTBGM2E6YCOUZJZZQIIN3ZA2VD4TQSI5KU22AJLJK3OHY'}】
+2021-03-09 00:49:50,424 - 54480-MainThread - /Users/apple/Downloads/jd-spider/jd_seckill-master/jd_seckill/jd_spider_requests.py[line:481] - INFO: 商品名称:【微星微星（MSI）魔龙 GeForce RTX 3070 GAMING X TRIO】微星（MSI）魔龙 GeForce RTX 3070 GAMING X TRIO 8G 超频版 旗舰款 电竞游戏设计专业电脑显卡【行情 报价 价格 评测】-京东
+2021-03-09 00:49:50,643 - 54480-MainThread - /Users/apple/Downloads/jd-spider/jd_seckill-master/jd_seckill/jd_spider_requests.py[line:499] - INFO: 预约成功，已获得抢购资格 / 您已成功预约过了，无需重复预约
+2021-03-09 00:50:04,018 - 54529-MainThread - /Users/apple/Downloads/jd-spider/jd_seckill-master/jd_seckill/jd_spider_requests.py[line:312] - INFO: page_title:【京东(JD.COM)-正品低价、品质保障、配送及时、轻松购物！】, page_url【https://www.jd.com/】
+2021-03-09 00:50:05,816 - 54529-MainThread - /Users/apple/Downloads/jd-spider/jd_seckill-master/jd_seckill/jd_spider_requests.py[line:327] - INFO: page_title：【家用电器】, page_url：【https://jiadian.jd.com/】
+2021-03-09 00:51:23,309 - 54529-MainThread - /Users/apple/Downloads/jd-spider/jd_seckill-master/jd_seckill/jd_spider_requests.py[line:331] - INFO: page_title：【【美的RX20S】美的（Midea）13套大容量 嵌入式 家用洗碗机 热风烘干 长效洁净 WIFI智控 独立式 全自动刷碗机RX20S【行情 报价 价格 评测】-京东】, page_url：【https://item.jd.com/100011528396.html】
+2021-03-09 00:51:25,645 - 54529-MainThread - /Users/apple/Downloads/jd-spider/jd_seckill-master/jd_seckill/jd_spider_requests.py[line:335] - INFO: page_title：【商品已成功加入购物车】, page_url：【https://cart.jd.com/addToCart.html?rcd=1&pid=100011528396&pc=1&eb=1&rid=1615222283458&em=】
+2021-03-09 00:51:28,028 - 54529-MainThread - /Users/apple/Downloads/jd-spider/jd_seckill-master/jd_seckill/jd_spider_requests.py[line:339] - INFO: page_title：【京东商城 - 购物车】, page_url：【https://cart.jd.com/cart_index/】
+2021-03-09 00:51:28,815 - 54529-MainThread - /Users/apple/Downloads/jd-spider/jd_seckill-master/jd_seckill/jd_spider_requests.py[line:343] - INFO: page_title：【订单结算页 -京东商城】, page_url：【https://trade.jd.com/shopping/order/getOrderInfo.action】
+2021-03-09 00:51:29,842 - 54529-MainThread - /Users/apple/Downloads/jd-spider/jd_seckill-master/jd_seckill/jd_spider_requests.py[line:348] - INFO: jd_tdudfp：【{'eid': '4JH5NDAPVAXQWQXRPYM3QQR6CT73DT4ORNTDFCOEWSHOYMSTUYCRKQGVR2I4LYGVW6LGU7B7AQNABQW4XE3HQUONSQ', 'fp': 'a9a1d128d7eadf91944c9441d4a25870', 'date': 1615222289000, 'token': '7V7BJHTP3JMWS77IOY5MNIORPCWOLKDY5KLSJBBHTENJ5PI4GH74USXK2R6WUASSU4UBZKKTHI7KW', 'jstub': 'ZTBO566JQF2SQG46FFHDV6GN4CNH7UDUSRYZNGHHTGCHOOL2PKEAHEFZUF3AZUKTM77OYFW4GPY3WKFTMWGUWT6MZL3S6QYFQ3HUM7A'}】
+2021-03-09 00:51:31,586 - 54573-MainThread - /Users/apple/Downloads/jd-spider/jd_seckill-master/jd_seckill/jd_spider_requests.py[line:577] - INFO: 用户:zdzb1234
+2021-03-09 00:51:31,609 - 54575-MainThread - /Users/apple/Downloads/jd-spider/jd_seckill-master/jd_seckill/jd_spider_requests.py[line:577] - INFO: 用户:zdzb1234
+2021-03-09 00:51:31,757 - 54578-MainThread - /Users/apple/Downloads/jd-spider/jd_seckill-master/jd_seckill/jd_spider_requests.py[line:577] - INFO: 用户:zdzb1234
+2021-03-09 00:51:31,951 - 54573-MainThread - /Users/apple/Downloads/jd-spider/jd_seckill-master/jd_seckill/jd_spider_requests.py[line:578] - INFO: 商品名称:【微星微星（MSI）魔龙 GeForce RTX 3070 GAMING X TRIO】微星（MSI）魔龙 GeForce RTX 3070 GAMING X TRIO 8G 超频版 旗舰款 电竞游戏设计专业电脑显卡【行情 报价 价格 评测】-京东
+2021-03-09 00:51:31,951 - 54573-MainThread - /Users/apple/Downloads/jd-spider/jd_seckill-master/jd_seckill/timer.py[line:48] - INFO: 正在等待到达设定时间:2021-03-09 11:56:00，检测本地时间与京东服务器时间误差为【-112】毫秒
+2021-03-09 00:51:31,981 - 54580-MainThread - /Users/apple/Downloads/jd-spider/jd_seckill-master/jd_seckill/jd_spider_requests.py[line:577] - INFO: 用户:zdzb1234
+2021-03-09 00:51:32,010 - 54576-MainThread - /Users/apple/Downloads/jd-spider/jd_seckill-master/jd_seckill/jd_spider_requests.py[line:577] - INFO: 用户:zdzb1234
+2021-03-09 00:51:32,036 - 54575-MainThread - /Users/apple/Downloads/jd-spider/jd_seckill-master/jd_seckill/jd_spider_requests.py[line:578] - INFO: 商品名称:【微星微星（MSI）魔龙 GeForce RTX 3070 GAMING X TRIO】微星（MSI）魔龙 GeForce RTX 3070 GAMING X TRIO 8G 超频版 旗舰款 电竞游戏设计专业电脑显卡【行情 报价 价格 评测】-京东
+2021-03-09 00:51:32,040 - 54575-MainThread - /Users/apple/Downloads/jd-spider/jd_seckill-master/jd_seckill/timer.py[line:48] - INFO: 正在等待到达设定时间:2021-03-09 11:56:00，检测本地时间与京东服务器时间误差为【-112】毫秒
+2021-03-09 00:51:32,070 - 54574-MainThread - /Users/apple/Downloads/jd-spider/jd_seckill-master/jd_seckill/jd_spider_requests.py[line:577] - INFO: 用户:zdzb1234
+2021-03-09 00:51:32,161 - 54578-MainThread - /Users/apple/Downloads/jd-spider/jd_seckill-master/jd_seckill/jd_spider_requests.py[line:578] - INFO: 商品名称:【微星微星（MSI）魔龙 GeForce RTX 3070 GAMING X TRIO】微星（MSI）魔龙 GeForce RTX 3070 GAMING X TRIO 8G 超频版 旗舰款 电竞游戏设计专业电脑显卡【行情 报价 价格 评测】-京东
+2021-03-09 00:51:32,161 - 54578-MainThread - /Users/apple/Downloads/jd-spider/jd_seckill-master/jd_seckill/timer.py[line:48] - INFO: 正在等待到达设定时间:2021-03-09 11:56:00，检测本地时间与京东服务器时间误差为【-112】毫秒
+2021-03-09 00:51:32,406 - 54574-MainThread - /Users/apple/Downloads/jd-spider/jd_seckill-master/jd_seckill/jd_spider_requests.py[line:578] - INFO: 商品名称:【微星微星（MSI）魔龙 GeForce RTX 3070 GAMING X TRIO】微星（MSI）魔龙 GeForce RTX 3070 GAMING X TRIO 8G 超频版 旗舰款 电竞游戏设计专业电脑显卡【行情 报价 价格 评测】-京东
+2021-03-09 00:51:32,407 - 54574-MainThread - /Users/apple/Downloads/jd-spider/jd_seckill-master/jd_seckill/timer.py[line:48] - INFO: 正在等待到达设定时间:2021-03-09 11:56:00，检测本地时间与京东服务器时间误差为【-112】毫秒
+2021-03-09 00:51:32,432 - 54576-MainThread - /Users/apple/Downloads/jd-spider/jd_seckill-master/jd_seckill/jd_spider_requests.py[line:578] - INFO: 商品名称:【微星微星（MSI）魔龙 GeForce RTX 3070 GAMING X TRIO】微星（MSI）魔龙 GeForce RTX 3070 GAMING X TRIO 8G 超频版 旗舰款 电竞游戏设计专业电脑显卡【行情 报价 价格 评测】-京东
+2021-03-09 00:51:32,432 - 54576-MainThread - /Users/apple/Downloads/jd-spider/jd_seckill-master/jd_seckill/timer.py[line:48] - INFO: 正在等待到达设定时间:2021-03-09 11:56:00，检测本地时间与京东服务器时间误差为【-112】毫秒
+2021-03-09 00:51:32,490 - 54579-MainThread - /Users/apple/Downloads/jd-spider/jd_seckill-master/jd_seckill/jd_spider_requests.py[line:577] - INFO: 用户:zdzb1234
+2021-03-09 00:51:32,518 - 54580-MainThread - /Users/apple/Downloads/jd-spider/jd_seckill-master/jd_seckill/jd_spider_requests.py[line:578] - INFO: 商品名称:【微星微星（MSI）魔龙 GeForce RTX 3070 GAMING X TRIO】微星（MSI）魔龙 GeForce RTX 3070 GAMING X TRIO 8G 超频版 旗舰款 电竞游戏设计专业电脑显卡【行情 报价 价格 评测】-京东
+2021-03-09 00:51:32,518 - 54580-MainThread - /Users/apple/Downloads/jd-spider/jd_seckill-master/jd_seckill/timer.py[line:48] - INFO: 正在等待到达设定时间:2021-03-09 11:56:00，检测本地时间与京东服务器时间误差为【-112】毫秒
+2021-03-09 00:51:32,603 - 54577-MainThread - /Users/apple/Downloads/jd-spider/jd_seckill-master/jd_seckill/jd_spider_requests.py[line:577] - INFO: 用户:zdzb1234
+2021-03-09 00:51:32,930 - 54579-MainThread - /Users/apple/Downloads/jd-spider/jd_seckill-master/jd_seckill/jd_spider_requests.py[line:578] - INFO: 商品名称:【微星微星（MSI）魔龙 GeForce RTX 3070 GAMING X TRIO】微星（MSI）魔龙 GeForce RTX 3070 GAMING X TRIO 8G 超频版 旗舰款 电竞游戏设计专业电脑显卡【行情 报价 价格 评测】-京东
+2021-03-09 00:51:32,930 - 54579-MainThread - /Users/apple/Downloads/jd-spider/jd_seckill-master/jd_seckill/timer.py[line:48] - INFO: 正在等待到达设定时间:2021-03-09 11:56:00，检测本地时间与京东服务器时间误差为【-112】毫秒
+2021-03-09 00:51:32,982 - 54577-MainThread - /Users/apple/Downloads/jd-spider/jd_seckill-master/jd_seckill/jd_spider_requests.py[line:578] - INFO: 商品名称:【微星微星（MSI）魔龙 GeForce RTX 3070 GAMING X TRIO】微星（MSI）魔龙 GeForce RTX 3070 GAMING X TRIO 8G 超频版 旗舰款 电竞游戏设计专业电脑显卡【行情 报价 价格 评测】-京东
+2021-03-09 00:51:32,982 - 54577-MainThread - /Users/apple/Downloads/jd-spider/jd_seckill-master/jd_seckill/timer.py[line:48] - INFO: 正在等待到达设定时间:2021-03-09 11:56:00，检测本地时间与京东服务器时间误差为【-112】毫秒
